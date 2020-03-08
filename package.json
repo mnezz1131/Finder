@@ -1,0 +1,24 @@
+{
+  "name": "Finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnezz1131/Finder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnezz1131/Finder/issues"
+  },
+  "homepage": "https://github.com/mnezz1131/Finder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.0.5"
+  }
+}
