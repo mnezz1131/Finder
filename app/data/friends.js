@@ -53,7 +53,7 @@ var friends = [
             3,
             2,
             1        ]
-    }
+    },
     {
         "name": "Tuco Salamanaca",
         "photo": "https://top-ten.tv/wp-content/uploads/2013/04/Tuco-Salamanca-300x145.png",
